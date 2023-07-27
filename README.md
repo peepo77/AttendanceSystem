@@ -36,3 +36,10 @@ Follow these steps to use the Attendance System:
 * Open a terminal or command prompt and navigate to the project directory.
 
 * Ensure all required libraries are installed (see Requirements section).
+
+## Video Demonstration
+
+https://github.com/peepo77/AttendanceSystem/assets/96831986/5465cbfc-0fcd-499b-96df-20f07cdd2e11
+
+
+
